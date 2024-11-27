@@ -2,4 +2,4 @@
 
 let name = 'Slava';
 
-module.exports = {name};
+module.exports = { name };
